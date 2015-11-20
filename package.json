@@ -19,6 +19,7 @@
     "react-dom": "*",
     "react-router": "^1.0.0",
     "reactify": "*",
+    "socket.io": "^1.3.7",
     "vinyl-source-stream": "*",
     "watchify": "*"
   }

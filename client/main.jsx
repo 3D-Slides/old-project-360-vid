@@ -7,7 +7,10 @@ var Route = ReactRouter.Route;
 var IndexRoute = require('react-router').IndexRoute;
 var Link = require('react-router').Link;
 
-var history = require('history').createBrowserHistory
+var App = require('./components/app.js');
+var Landing = require('./components/landingComponents/landing');
+var MainRoom = require('./components/mainRoomComponent');
+
 
 // grab our routes from the routes.js folder
 var routes = require('./routes');
